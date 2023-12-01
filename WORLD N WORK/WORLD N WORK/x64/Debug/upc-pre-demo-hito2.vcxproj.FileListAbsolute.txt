@@ -1,0 +1,9 @@
+C:\Users\marce\Downloads\upc-pre-demo-hito2_modificado\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.vcxproj.AssemblyReference.cache
+C:\Users\marce\Downloads\upc-pre-demo-hito2_modificado\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\marce\Downloads\upc-pre-demo-hito2_modificado\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.exe
+D:\Downloads\upc-pre-demo-hito2_modificado2\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.vcxproj.AssemblyReference.cache
+D:\Downloads\upc-pre-demo-hito2_modificado2\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.vcxproj.SuggestedBindingRedirects.cache
+D:\Downloads\upc-pre-demo-hito2_modificado2\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.exe
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.vcxproj.AssemblyReference.cache
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.vcxproj.SuggestedBindingRedirects.cache
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.exe

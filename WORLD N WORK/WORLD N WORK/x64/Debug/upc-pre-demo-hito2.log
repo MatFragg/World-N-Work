@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  upc-pre-demo-hito2.cpp
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\juego.h(28,5): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\juego.h(88,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\juego.h(89,30): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\upc-pre-demo-hito2.cpp(9,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  upc-pre-demo-hito2.vcxproj -> D:\Downloads\Entrega de Trabajo Final\Entrega de Trabajo Final\upc-pre-demo-hito2\x64\Debug\upc-pre-demo-hito2.exe

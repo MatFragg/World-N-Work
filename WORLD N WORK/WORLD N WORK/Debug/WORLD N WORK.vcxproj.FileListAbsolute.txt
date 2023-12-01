@@ -1,0 +1,3 @@
+D:\Downloads\WORLD N WORK\WORLD N WORK\WORLD N WORK\Debug\WORLD N WORK.vcxproj.AssemblyReference.cache
+D:\Downloads\WORLD N WORK\WORLD N WORK\WORLD N WORK\Debug\WORLD N WORK.vcxproj.SuggestedBindingRedirects.cache
+D:\Downloads\WORLD N WORK\WORLD N WORK\WORLD N WORK\Debug\WORLD N WORK.exe
